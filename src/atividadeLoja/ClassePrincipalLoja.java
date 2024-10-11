@@ -19,7 +19,7 @@ public class ClassePrincipalLoja {
 	static public void menuInicial() {
 		
 		System.out.println("--------------------------------------------------");
-		System.out.println("Bem vindo(a), ao gerenciador de produtos!");
+		System.out.println("Bem vindo(a), ao menu de gerenciamento!");
 		System.out.print("\n");
 		
 		System.out.println("Escolha entre as opções a baixo:");
